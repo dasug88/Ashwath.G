@@ -1,0 +1,3 @@
+Note: After installing the JDK, you may need to set JAVA_HOME to your profile:
+For shell or bash: export JAVA_HOME=path_to_java_home
+For csh (C shell): setenv JAVA_HOME=path_to_java_home
